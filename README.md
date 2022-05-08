@@ -16,7 +16,7 @@
   <a href="https://www.java.com/es/"><img src="https://img.shields.io/badge/Java-White?color=red&logo=java&logoColor=blue"></a>
   <a href="https://developer.mozilla.org/en/docs/Glossary/HTML5"><img src="https://img.shields.io/badge/HTML5-White?color=orange&logo=html5&logoColor=white"></a><br>
   <a href="https://go.dev/"><img src="https://img.shields.io/badge/Goland-White?color=informational&logo=goland&logoColor=white"></a>
-  <a href="https://www.php.net/"><img src="https://img.shields.io/badge/php-White?color=black&logo=php&logoColor=9cf"></a>
+  <a href="https://www.php.net/"><img src="https://img.shields.io/badge/PHP-White?color=black&logo=php&logoColor=9cf"></a>
   <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-White?color=informational&logo=docker&logoColor=white"></a>
   <a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/Bootstrap-White?color=blueviolet&logo=bootstrap&logoColor=white"></a>
   <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-White?color=black&logo=git&logoColor=orange"></a>
