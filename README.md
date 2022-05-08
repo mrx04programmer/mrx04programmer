@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/46001898/167279185-dde6d335-49ff-4df5-ba9e-f31ae3410d3f.gif" width="200px">
+  <img src="https://user-images.githubusercontent.com/46001898/167279463-ef1844bb-7ba6-4011-89da-2c7eef81ceb8.gif" width="200px">
 </div>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=mrx04programmer&show_icons=true&theme=highcontrast&hide_border=true" width="500">
 <img align="left" src="http://github-readme-streak-stats.herokuapp.com/?user=mrx04programmer&theme=dark&background=000000&hide_border=true" width="500">
