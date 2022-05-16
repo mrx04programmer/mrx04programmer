@@ -1,3 +1,4 @@
+<body background-color="black">
 <div align="center">
   <img src="https://user-images.githubusercontent.com/46001898/167279463-ef1844bb-7ba6-4011-89da-2c7eef81ceb8.gif" width="200px">
 </div>
@@ -42,3 +43,4 @@
   🎒 Learning in Sena <br>
   
 ![](https://komarev.com/ghpvc/?username=mrx04programmer&label=PROFILE+VIEWS)
+</body>
