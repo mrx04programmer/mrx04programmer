@@ -1,10 +1,9 @@
-
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/46001898/167279463-ef1844bb-7ba6-4011-89da-2c7eef81ceb8.gif" width="200px">
+  <img src="https://user-images.githubusercontent.com/46001898/167279463-ef1844bb-7ba6-4011-89da-2c7eef81ceb8.gif" width="200px"><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrx04programmer&layout=compact&theme=chartreuse-dark&hide_border=true" width="" alt="Most used languages">
 </div>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=mrx04programmer&show_icons=true&theme=highcontrast&hide_border=true" width="500">
-<img align="left" src="http://github-readme-streak-stats.herokuapp.com/?user=mrx04programmer&theme=dark&background=000000&hide_border=true" width="500">
-
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=mrx04programmer&show_icons=true&theme=chartreuse-dark&hide_border=true" width="500">
+<img align="left" src="http://github-readme-streak-stats.herokuapp.com/?user=mrx04programmer&theme=chartreuse-dark&background=000000&hide_border=true" width="500">
 ## My Skills
 <div align="center">
   <a href="https://www.arduino.cc/"><img src="https://img.shields.io/badge/Arduino-Blue?color=informational&logo=arduino&logoColor=white"></a>
