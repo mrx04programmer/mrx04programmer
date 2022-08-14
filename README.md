@@ -20,7 +20,8 @@
   <a href="https://www.ruby-lang.org/en/"><img src="https://img.shields.io/badge/Ruby-White?color=white&logo=ruby&logoColor=red"></a>
   <a href="https://www.java.com/es/"><img src="https://img.shields.io/badge/Java-White?color=red&logo=java&logoColor=blue"></a>
   <a href="https://developer.mozilla.org/en/docs/Glossary/HTML5"><img src="https://img.shields.io/badge/HTML5-White?color=orange&logo=html5&logoColor=white"></a>
-  <a href=https://www.microsoft.com/en-us/sql-server?rtc=1""><img src="https://img.shields.io/badge/SQL Server-White?color=white&logo=microsoft%20sql%20server&logoColor=red"></a><!--<br>-->
+  <a href="https://www.microsoft.com/en-us/sql-server?rtc=1"><img src="https://img.shields.io/badge/SQL Server-White?color=white&logo=microsoft%20sql%20server&logoColor=red"></a><!--<br>-->
+  <a href="https://nodejs.org/en/"><img src="https://img.shields.io/badge/node-black?color=black&logo=nodedotjs&logoColor=green"></a>
   <a href="https://go.dev/"><img src="https://img.shields.io/badge/Goland-White?color=informational&logo=goland&logoColor=white"></a>
   <a href="https://www.php.net/"><img src="https://img.shields.io/badge/PHP-White?color=black&logo=php&logoColor=9cf"></a>
   <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-White?color=informational&logo=docker&logoColor=white"></a>
