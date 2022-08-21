@@ -28,11 +28,11 @@
   <a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/Bootstrap-White?color=blueviolet&logo=bootstrap&logoColor=white"></a>
   <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-White?color=black&logo=git&logoColor=orange"></a>
   <a href="https://github.com/"><img src="https://img.shields.io/badge/Github-White?color=black&logo=github&logoColor=white"></a>
-  
 <!--<br>-->
   
   
 </div>
+[![My Github activity graph](https://activity-graph.herokuapp.com/graph?username=mrx04programmer&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/mrx04programmer/github-readme-activity-graph)
 <!--
 <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=mrx04programmer&show_icons=true&theme=onedark></p>
 -->
