@@ -29,6 +29,8 @@
   <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-White?color=black&logo=git&logoColor=orange"></a>
   <a href="https://github.com/"><img src="https://img.shields.io/badge/Github-White?color=black&logo=github&logoColor=white"></a>
 <!--<br>-->
+</div>
+<div>
   <h3>My Activity in Github</h3>
   <a href="#"><img src="https://activity-graph.herokuapp.com/graph?username=mrx04programmer&theme=react-dark&radius=20"></a>
   
