@@ -1,7 +1,8 @@
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/46001898/167279463-ef1844bb-7ba6-4011-89da-2c7eef81ceb8.gif" width="200px"><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrx04programmer&layout=compact&theme=chartreuse-dark&hide_border=true" width="" alt="Lenguajes más usados">
+<div>
+  <img src="https://user-images.githubusercontent.com/46001898/167279463-ef1844bb-7ba6-4011-89da-2c7eef81ceb8.gif" width="200px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrx04programmer&layout=compact&theme=chartreuse-dark&hide_border=true" width="294" alt="Lenguajes más usados">
 </div>
+
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=mrx04programmer&show_icons=true&theme=chartreuse-dark&hide_border=true" width="500">
 <img align="left" src="http://github-readme-streak-stats.herokuapp.com/?user=mrx04programmer&theme=chartreuse-dark&background=000000&hide_border=true" width="500">
 
@@ -30,11 +31,7 @@
   <a href="https://github.com/"><img src="https://img.shields.io/badge/Github-White?color=black&logo=github&logoColor=white"></a>
 <!--<br>-->
 </div>
-<div>
-  <h3>My Activity in Github</h3>
-  <a href="#"><img src="https://activity-graph.herokuapp.com/graph?username=mrx04programmer&theme=react-dark&radius=20"></a>
-  
-</div>
+
 <!--
 <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=mrx04programmer&show_icons=true&theme=onedark></p>
 -->
@@ -44,6 +41,11 @@
   🗿 Developer of Software <br>
   👁️‍🗨️ Hacking tools manufacturer <br>
   🎒 Learning in Sena <br>
-  
 ![](https://komarev.com/ghpvc/?username=mrx04programmer&label=PROFILE+VIEWS)
+
+<br><br>
+<a href="#"><img src="https://activity-graph.herokuapp.com/graph?username=mrx04programmer&theme=react-dark&custom_title=My%20Activity%20in%20Github"></a>
+<br>
+
+
 
