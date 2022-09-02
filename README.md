@@ -18,6 +18,7 @@
   <a href="https://www.perl.org/"><img src="https://img.shields.io/badge/Perl-White?color=informational&logo=perl&logoColor=ff69b4"></a>
   <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-White?color=critical&logo=mysql&logoColor=black"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/Javascript-White?color=black&logo=javascript&logoColor=yellow"></a>
+  <a href="https://json.org/"><img src="https://img.shields.io/badge/Json-Lang?color=black&logo=json&logoColor=yellow"></a>
   <a href="https://www.ruby-lang.org/en/"><img src="https://img.shields.io/badge/Ruby-White?color=white&logo=ruby&logoColor=red"></a>
   <a href="https://www.java.com/es/"><img src="https://img.shields.io/badge/Java-White?color=red&logo=java&logoColor=blue"></a>
   <a href="https://developer.mozilla.org/en/docs/Glossary/HTML5"><img src="https://img.shields.io/badge/HTML5-White?color=orange&logo=html5&logoColor=white"></a>
@@ -29,6 +30,7 @@
   <a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/Bootstrap-White?color=blueviolet&logo=bootstrap&logoColor=white"></a>
   <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-White?color=black&logo=git&logoColor=orange"></a>
   <a href="https://github.com/"><img src="https://img.shields.io/badge/Github-White?color=black&logo=github&logoColor=white"></a>
+  
 <!--<br>-->
 </div>
 
