@@ -6,9 +6,8 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=mrx04programmer&show_icons=true&theme=chartreuse-dark&hide_border=true" width="500">
 <img align="left" src="http://github-readme-streak-stats.herokuapp.com/?user=mrx04programmer&theme=chartreuse-dark&background=000000&hide_border=true" width="500">
 
-
 ## My Skills
-<div align="center">
+<div align="right">
   <a href="https://www.arduino.cc/"><img src="https://img.shields.io/badge/Arduino-Blue?style=for-the-badge&color=informational&logo=arduino&logoColor=white"></a>
   <a href="https://www.linux.org"><img src="https://img.shields.io/badge/Linux-Blue?style=for-the-badge&color=black&logo=linux&logoColor=yellow"></a>
   <a href="https://www.kali.org"><img src="https://img.shields.io/badge/Kali%20Linux-text?style=for-the-badge&color=052338&logo=kali%20linux&logoColor=white"></a>
@@ -37,6 +36,8 @@
   
 <!--<br>-->
 </div>
+
+
 
 <!--
 <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=mrx04programmer&show_icons=true&theme=onedark></p>
