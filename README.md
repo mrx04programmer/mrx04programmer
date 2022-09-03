@@ -9,7 +9,8 @@
 ## My Skills
 <div align="center">
   <a href="https://www.arduino.cc/"><img src="https://img.shields.io/badge/Arduino-Blue?color=informational&logo=arduino&logoColor=white"></a>
-  <a href="https://www.linux.org"><img src="https://img.shields.io/badge/Linux-Blue?color=yellow&logo=linux&logoColor=black"></a>
+  <a href="https://www.linux.org"><img src="https://img.shields.io/badge/Linux-Blue?color=black&logo=linux&logoColor=yellow"></a>
+  <a href="https://www.kali.org"><img src="https://img.shields.io/badge/Kali%20Linux-Linux?color=black&logo=Kali%20Linux&logoColor=blue"></a>
   <a href="https://www.postman.com/"><img src="https://img.shields.io/badge/Postman-White?color=orange&logo=postman&logoColor=black"></a>
   <!-- style=plastic -->
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-White?color=blue&logo=python&logoColor=yellow"></a>
