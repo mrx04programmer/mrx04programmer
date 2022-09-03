@@ -6,6 +6,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=mrx04programmer&show_icons=true&theme=chartreuse-dark&hide_border=true" width="500">
 <img align="left" src="http://github-readme-streak-stats.herokuapp.com/?user=mrx04programmer&theme=chartreuse-dark&background=000000&hide_border=true" width="500">
 
+
 ## My Skills
 <div align="center">
   <a href="https://www.arduino.cc/"><img src="https://img.shields.io/badge/Arduino-Blue?style=for-the-badge&color=informational&logo=arduino&logoColor=white"></a>
@@ -40,6 +41,10 @@
 <!--
 <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=mrx04programmer&show_icons=true&theme=onedark></p>
 -->
+<br>
+<br>
+<br>
+<br>
 
 ## About Me
   👤 How to reach me: <a href="mailto:user_mrx04programmer@protonmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-mrx04programmer-blue?style=plastic&logo=gmail&color=white"></a><br>
