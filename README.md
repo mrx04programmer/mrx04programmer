@@ -1,6 +1,6 @@
-<div>
-  <img src="https://user-images.githubusercontent.com/46001898/167279463-ef1844bb-7ba6-4011-89da-2c7eef81ceb8.gif" width="200px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrx04programmer&layout=compact&theme=chartreuse-dark&hide_border=true" width="294" alt="Lenguajes más usados">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/46001898/188255084-9c1e65b8-64c2-4c6b-a02c-b89edfe76034.gif" width="100%" height="200px">
+  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrx04programmer&layout=compact&theme=chartreuse-dark&hide_border=true" width="294" alt="Lenguajes más usados">-->
 </div>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=mrx04programmer&show_icons=true&theme=chartreuse-dark&hide_border=true" width="500">
