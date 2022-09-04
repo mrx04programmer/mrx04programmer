@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/46001898/188255084-9c1e65b8-64c2-4c6b-a02c-b89edfe76034.gif" width="100%" height="200px">
+  <img src="https://user-images.githubusercontent.com/46001898/188255084-9c1e65b8-64c2-4c6b-a02c-b89edfe76034.gif" width="100%" height="20%">
   <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrx04programmer&layout=compact&theme=chartreuse-dark&hide_border=true" width="294" alt="Lenguajes más usados">-->
 </div>
 
