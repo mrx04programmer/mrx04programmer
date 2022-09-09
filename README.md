@@ -48,11 +48,13 @@
 <br>
 
 ## About Me
-  👤 How to reach me: <a href="mailto:user_mrx04programmer@protonmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-mrx04programmer-blue?style=plastic&logo=gmail&color=white"></a><br>
   🗿 Developer of Software <br>
   👁️‍🗨️ Hacking tools manufacturer <br>
   🎒 Learning in Sena <br>
-![](https://komarev.com/ghpvc/?username=mrx04programmer&label=PROFILE+VIEWS)
+  👤 How to reach me: <br>
+  <a href="mailto:user_mrx04programmer@protonmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-Mrx04programmer-t?style=for-the-badge&logo=gmail&color=white&logoColor=green&labelColor=black"></a><br>
+  
+![](https://komarev.com/ghpvc/?username=mrx04programmer&label=PROFILE+VIEWS&style=for-the-badge)<br>
 
 <br><br>
 <a href="#"><img src="https://activity-graph.herokuapp.com/graph?username=mrx04programmer&theme=react-dark&custom_title=My%20Activity%20in%20Github"></a>
