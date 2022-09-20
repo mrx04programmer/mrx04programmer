@@ -20,6 +20,7 @@
   <a href="https://www.perl.org/"><img src="https://img.shields.io/badge/Perl-White?style=for-the-badge&color=ff69b4&logo=perl&logoColor=black"></a>
   <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-White?style=for-the-badge&color=critical&logo=mysql&logoColor=black"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/Javascript-White?style=for-the-badge&color=black&logo=javascript&logoColor=yellow"></a>
+  <a href="https://es.reactjs.org/"><img src="https://img.shields.io/badge/React-White?style=for-the-badge&color=black&logo=react&logoColor=cyan"></a>
   <a href="https://www.laravel.com"><img src="https://img.shields.io/badge/Laravel-text?style=for-the-badge&color=810d1d&logo=laravel&logoColor=white"></a>
   <a href="https://json.org/"><img src="https://img.shields.io/badge/Json-Lang?style=for-the-badge&color=orange&logo=json&logoColor=black"></a>
   <a href="https://www.ruby-lang.org/en/"><img src="https://img.shields.io/badge/Ruby-White?style=for-the-badge&color=white&logo=ruby&logoColor=red"></a>
