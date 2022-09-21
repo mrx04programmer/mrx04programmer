@@ -11,6 +11,7 @@
   <a href="https://www.arduino.cc/"><img src="https://img.shields.io/badge/Arduino-Blue?style=for-the-badge&color=informational&logo=arduino&logoColor=white"></a>
   <a href="https://www.linux.org"><img src="https://img.shields.io/badge/Linux-Blue?style=for-the-badge&color=black&logo=linux&logoColor=yellow"></a>
   <a href="https://www.kali.org"><img src="https://img.shields.io/badge/Kali%20Linux-text?style=for-the-badge&color=052338&logo=kali%20linux&logoColor=white"></a>
+  <a href="https://www.nginx.com"><img src="https://img.shields.io/badge/nginx-text?style=for-the-badge&color=darkgreen&logo=nginx&logoColor=white"></a>
   <a href="https://www.postman.com/"><img src="https://img.shields.io/badge/Postman-White?style=for-the-badge&color=orange&logo=postman&logoColor=black"></a>
   <a href="https://insomnia.rest/"><img src="https://img.shields.io/badge/Insomnia-text?style=for-the-badge&color=purple&logo=Insomnia&logoColor=white"></a>
   <!-- style=plastic -->
