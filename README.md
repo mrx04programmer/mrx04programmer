@@ -1,13 +1,17 @@
 <div align="center">
+  <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%">
   <img src="https://user-images.githubusercontent.com/46001898/188255084-9c1e65b8-64c2-4c6b-a02c-b89edfe76034.gif" width="100%" height="20%">
   <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrx04programmer&layout=compact&theme=chartreuse-dark&hide_border=true" width="294" alt="Lenguajes más usados">-->
 </div>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=mrx04programmer&show_icons=true&theme=chartreuse-dark&hide_border=true" width="500">
 
-<div align="left">
 
-<details>
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mrx04programmer&theme=github_dark" width="32%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mrx04programmer&theme=github_dark&utcOffset=8" width="32%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrx04programmer&theme=github_dark" width="32%">
+</div>
+<details open>
 <summary>My Skills ⚒</summary>
 <div>
 <h5>👉 Programming languages</h5>
@@ -47,7 +51,7 @@
 </div>
 </details>
 
-<details>
+<details open>
 <summary> About Me 📕</summary>
 <div>
 🗿 Developer of Software <br>
