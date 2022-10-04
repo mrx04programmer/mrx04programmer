@@ -11,7 +11,9 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mrx04programmer&theme=github_dark&utcOffset=8" width="32%">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrx04programmer&theme=github_dark" width="32%">
 </div>
-<details open>
+
+<div align="center">
+<details>
 <summary>My Skills ⚒</summary>
 <div>
 <h5>👉 Programming languages</h5>
@@ -67,6 +69,8 @@
 </div>
 </details>
 
+  <img src="https://komarev.com/ghpvc/?username=mrx04programmer&label=PROFILE+VIEWS&style=for-the-badge"><br>
+  
 </div>
 
 
@@ -74,8 +78,7 @@
 <!--
 <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=mrx04programmer&show_icons=true&theme=onedark></p>
 -->
-  
-![](https://komarev.com/ghpvc/?username=mrx04programmer&label=PROFILE+VIEWS&style=for-the-badge)<br>
+
 
 <br><br>
 <a href="#"><img src="https://activity-graph.herokuapp.com/graph?username=mrx04programmer&theme=react-dark&custom_title=My%20Activity%20in%20Github"></a>
