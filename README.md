@@ -6,12 +6,6 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=mrx04programmer&show_icons=true&theme=chartreuse-dark&hide_border=true" width="500">
 
 <div align="left">
-<details>
-<summary>Connect with me ☎</summary>
-<div>
-<a href="mailto:user_mrx04programmer@protonmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-Mrx04programmer-t?style=for-the-badge&logo=gmail&color=white&logoColor=green&labelColor=black"></a><br>
-</div>
-</details>
 
 <details>
 <summary>My Skills ⚒</summary>
@@ -58,11 +52,16 @@
 <div>
 🗿 Developer of Software <br>
   👁️‍🗨️ Hacking tools manufacturer <br>
-  🎒 Learning in Sena <br>
-  👤 How to reach me: <br>
+  🎒 Learning in SENA <br>
 </div>
 </details>
 
+  <details>
+<summary>Connect with me ☎</summary>
+<div>
+<a href="mailto:user_mrx04programmer@protonmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-Mrx04programmer-t?style=for-the-badge&logo=gmail&color=white&logoColor=green&labelColor=black"></a><br>
+</div>
+</details>
 
 </div>
 
