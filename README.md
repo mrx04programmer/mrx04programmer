@@ -7,9 +7,9 @@
 
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mrx04programmer&theme=github_dark" width="32%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mrx04programmer&theme=github_dark&utcOffset=8" width="32%">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrx04programmer&theme=github_dark" width="32%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrx04programmer&theme=2077" width="32%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mrx04programmer&theme=2077&utcOffset=8" width="32%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrx04programmer&theme=2077" width="32%">
 </div>
 
 <div align="center">
