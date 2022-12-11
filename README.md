@@ -58,7 +58,6 @@
 <div>
 🗿 Developer of Software <br>
   👁️‍🗨️ Hacking tools manufacturer <br>
-  🎒 Learning in SENA <br>
 </div>
 </details>
 
