@@ -80,9 +80,5 @@
 -->
 
 
-<br><br>
-<a href="#"><img src="https://activity-graph.herokuapp.com/graph?username=mrx04programmer&theme=react-dark&custom_title=My%20Activity%20in%20Github"></a>
-<br>
-
 
 
