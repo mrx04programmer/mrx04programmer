@@ -10,6 +10,7 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrx04programmer&theme=2077" width="32%">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mrx04programmer&theme=2077&utcOffset=8" width="32%">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrx04programmer&theme=2077" width="32%">
+  <img src="https://github-profile-trophy.vercel.app/?username=mrx04programmer&theme=darkhub&row=1&column4&margin-w=05&margin-h=5">
 </div>
 
 <div align="center">
