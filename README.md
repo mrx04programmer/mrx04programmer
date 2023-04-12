@@ -70,7 +70,7 @@
 </details>
 
   <img src="https://komarev.com/ghpvc/?username=mrx04programmer&label=PROFILE+VIEWS&style=for-the-badge"><br>
-  <h6>My general website: https://mrx04programmer.github.io/myme/ (No Responsive)</h6>
+  <!--<h6>My general website: https://mrx04programmer.github.io/myme/ ⤫ Disable</h6>-->
 </div>
 
 
