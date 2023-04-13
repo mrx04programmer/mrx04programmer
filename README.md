@@ -10,7 +10,8 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrx04programmer&theme=2077" width="32%">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mrx04programmer&theme=2077&utcOffset=8" width="32%">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrx04programmer&theme=2077" width="32%">
-  <img src="https://github-profile-trophy.vercel.app/?username=mrx04programmer&theme=darkhub&row=1&column4&margin-w=05&margin-h=5">
+  
+ <!-- <img src="https://github-profile-trophy.vercel.app/?username=mrx04programmer&theme=darkhub&row=1&column4&margin-w=05&margin-h=5">-->
 </div>
 
 <div align="center">
@@ -69,7 +70,8 @@
 </div>
 </details>
 
-  <img src="https://komarev.com/ghpvc/?username=mrx04programmer&label=PROFILE+VIEWS&style=for-the-badge"><br>
+  <img src="https://komarev.com/ghpvc/?username=mrx04programmer&label=PROFILE+VIEWS&style=for-the-badge"><br><br>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrx04programmer&theme=2077">
   <!--<h6>My general website: https://mrx04programmer.github.io/myme/ ⤫ Disable</h6>-->
 </div>
 
