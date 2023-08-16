@@ -73,6 +73,44 @@
   <img src="https://komarev.com/ghpvc/?username=mrx04programmer&label=PROFILE+VIEWS&style=for-the-badge"><br><br>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrx04programmer&theme=2077">
   <!--<h6>My general website: https://mrx04programmer.github.io/myme/ ⤫ Disable</h6>-->
+  <table>
+    <thead>
+      <th>
+        Name
+      </th>
+      <th>
+        Description
+      </th>
+      <th>
+        Status
+      </th>
+      <th>
+        Lenguage Code
+      </th>
+      <th>
+        Language
+      </th>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a href="https://github.com/mrx04programmer/rtl-gui/">RTL GUI</a></td>
+        <td>Herramienta especializada en escaneos de vulnerabilidades no comunes y explotador de las mismas.</td>
+        <td>✔</td>
+        <td>
+          <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="25" alt="Python3">
+          <img src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" width="25" alt="PHP">
+        </td>
+        <td> 🇪🇸 </td><!-- 🇺🇸 -->
+      </tr>
+      <tr>
+        <td><a href="https://github.com/mrx04programmer/Cerbero">Cerbero</a></td>
+        <td>Servidor controlado local el cual puede aplicarse con la herramiento Ngrok para su hosting. </a></td>
+        <td>✔</td>
+        <td><img src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" width="25" alt="nodejs"></td>
+        <td> 🇪🇸 🇺🇸</td><!-- 🇺🇸 -->
+      </tr>
+    </tbody>
+  </table>
 </div>
 
 
