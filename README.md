@@ -85,7 +85,7 @@
         Status
       </th>
       <th>
-        Lenguage Code
+        Code
       </th>
       <th>
         Language
