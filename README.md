@@ -73,6 +73,7 @@
   <img src="https://komarev.com/ghpvc/?username=mrx04programmer&label=PROFILE+VIEWS&style=for-the-badge"><br><br>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrx04programmer&theme=2077">
   <!--<h6>My general website: https://mrx04programmer.github.io/myme/ ⤫ Disable</h6>-->
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=51F717&center=true&width=435&lines=My+Projects" alt="My Projects SVG" /></a>
   <table>
     <thead>
       <th>
