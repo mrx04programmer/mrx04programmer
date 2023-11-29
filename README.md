@@ -111,6 +111,12 @@
         <td> 🇪🇸 🇺🇸</td><!-- 🇺🇸 -->
       </tr>
     <tr>
+      <td><a href="https://github.com/mrx04programmer/ZshTheme-ArchCraft">theme ArchCraft</td>
+        <td>✔</td>
+        <td><img src="https://cdn.pixabay.com/photo/2022/05/03/17/44/zsh-7172337_960_720.png" width="25" alt="nodejs"></td>
+        <td>🇺🇸</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/mrx04programmer/Arpha">Arpha</a></td>
         <td>Pack de herramientas para pruebas de penetración en sistemas por medio de Arduino UNO. </a></td>
         <td>✔</td>
