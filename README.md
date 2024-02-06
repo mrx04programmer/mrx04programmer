@@ -93,6 +93,13 @@
       </th>
     </thead>
     <tbody>
+       <tr>
+        <td><a href="https://github.com/mrx04programmer/Bluesniff">Bluesniff</a></td>
+        <td>Herramienta de pruebas de penetracion en bluetooth.</td>
+        <td>✔</td>
+        <td><img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="25" alt="Python3"></td>
+        <td> 🇪🇸 🇺🇸</td><!-- 🇺🇸 -->
+      </tr>
       <tr>
         <td><a href="https://github.com/mrx04programmer/rtl-gui/">RTL GUI</a></td>
         <td>Herramienta especializada en escaneos de vulnerabilidades no comunes y explotador de las mismas.</td>
@@ -119,11 +126,12 @@
     </tr>
     <tr>
         <td><a href="https://github.com/mrx04programmer/Arpha">Arpha</a></td>
-        <td>Pack de herramientas para pruebas de penetración en sistemas por medio de Arduino UNO. </a></td>
+        <td>Pack de herramientas para pruebas de penetración en sistemas por medio de Arduino UNO.</td>
         <td>✔</td>
         <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" width="25" alt="Python3"></td>
         <td> 🇪🇸</td><!-- 🇺🇸 -->
       </tr>
+   
     </tbody>
   </table>
 </div>
