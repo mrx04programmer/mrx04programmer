@@ -138,8 +138,6 @@
         <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" width="25" alt="Python3"></td>
         <td> 🇪🇸</td><!-- 🇺🇸 -->
       </tr>
-      
-   
     </tbody>
   </table>
 </div>
