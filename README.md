@@ -105,7 +105,7 @@
         <td>Herramienta de pruebas de penetracion en bluetooth.</td>
         <td>✔</td>
         <td><img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="25" alt="Python3"></td>
-        <td> 🇪🇸 🇺🇸</td><!-- 🇺🇸 -->
+        <td> 🇪🇸 / 🇺🇸</td><!-- 🇺🇸 -->
       </tr>
       <tr>
         <td><a href="https://github.com/mrx04programmer/rtl-gui/">RTL GUI</a></td>
